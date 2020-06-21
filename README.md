@@ -1,6 +1,6 @@
-# Unisex Synchronization Problem
+# Unisex Bathroom Synchronization Problem
 
-
+Unisex bathroom problem solved using pthreads, mutex locks and condition variables. Written in C
 
 ## Synchronization: Mutex Locks
 
